@@ -1,0 +1,10 @@
+C:\Users\Uživatel\Desktop\programy\ukol3retezcestach\bin\Debug\ukol3retezcestach.exe.config
+C:\Users\Uživatel\Desktop\programy\ukol3retezcestach\bin\Debug\ukol3retezcestach.exe
+C:\Users\Uživatel\Desktop\programy\ukol3retezcestach\bin\Debug\ukol3retezcestach.pdb
+C:\Users\Uživatel\Desktop\programy\ukol3retezcestach\obj\Debug\ukol3retezcestach.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programy\ukol3retezcestach\obj\Debug\ukol3retezcestach.Form1.resources
+C:\Users\Uživatel\Desktop\programy\ukol3retezcestach\obj\Debug\ukol3retezcestach.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programy\ukol3retezcestach\obj\Debug\ukol3retezcestach.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programy\ukol3retezcestach\obj\Debug\ukol3retezcestach.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programy\ukol3retezcestach\obj\Debug\ukol3retezcestach.exe
+C:\Users\Uživatel\Desktop\programy\ukol3retezcestach\obj\Debug\ukol3retezcestach.pdb
